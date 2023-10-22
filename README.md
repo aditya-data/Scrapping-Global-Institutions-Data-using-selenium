@@ -23,7 +23,7 @@ To get started with this project, make sure you have the following dependencies 
 
 ## Usage
 
-Include instructions on how to use the scraped data, any scripts you've developed, and any special considerations for running your code. You can provide code examples or step-by-step guides as needed.
+A python notebook is shared in the repository which consists of a function who takes country as an argument and returns all the desired output in return. All country names can be accessed by first beautiful soup. Along with that A directory is shared which contains csv files of 250+ titled with their names.
 
 ## License
 
